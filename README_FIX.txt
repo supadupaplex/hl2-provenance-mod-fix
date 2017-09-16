@@ -12,7 +12,7 @@ Applied this fix to prevent crash:
 https://steamcommunity.com/app/420/discussions/0/864971765497379056/
 
 - p_g01_l_0.lmp
-Added those lines to "ai_relationship" lump:
+Added those lines to "ai_relationship" entity:
   "Reciprocal" "1"
   "rank" "99"
 This fixed invulnerability of HECU soldiers.
