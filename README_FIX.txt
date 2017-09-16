@@ -18,7 +18,7 @@ Added those lines to "ai_relationship" lump:
 This fixed invulnerability of HECU soldiers.
 
 - p_g02_l_0.lmp
-Replaced lines:
+Replaced these lines:
   "OnTrigger" "boss_strider01,SetCannonTarget,boss_train01_bullseye02,0,-1"
   "OnTrigger" "boss_strider01,SetCannonTarget,boss_train01_bullseye03,0,-1"
 With those:
